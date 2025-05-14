@@ -17,10 +17,9 @@
 * 🔍 Currently diving deeper into **Data Structures, Algorithms**, and **System Design**
 * 🛠️ Available for **freelance** or collaboration opportunities
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
-* 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
-* 🗂️ Explore my projects on [GitHub](https://github.com/anishsoni29?tab=repositories)
+* 🗂️ Explore my projects on [GitHub](https://github.com/diggajbishnoi)
 * 📄 Here’s my [resume](https://www.anishsoni.in/resume_anish_soni.pdf) if you're curious!
-* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
+* 📬 Reach out on [LinkedIn]([https://www.linkedin.com/in/diggajbishnoi/](https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/))
 
 
 <br>
@@ -51,17 +50,3 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
-
-### 📊 Github Stats
-
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/anishsoni29/Face-Detection-Attendance-System" target="_blank"> <img alt="face-detection" src="https://blog.mantratec.com/Images/post-img/all_post_in_side_img/2022/Benefits-of-facial-recognition-attendance-system.png" height="68" align="left"> </a>
-<a href="https://github.com/anishsoni29/Data-Analysis/tree/main/Resume%20Screener" target="_blank"> <img alt="resume_scanner" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/resume_scanner.png"  height="68" align="left"> </a>
-<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Credit%20Card%20Risk%20Assessment" target="_blank"> <img alt="credit_risk_assessment" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/credit_risk_assessment.png" height="55px" width="65px" align="left"> </a>
-<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Algorithmic%20Trading%20using%20Python" target="_blank"> <img alt="arithematic_trading" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/python_trading.png" height="68" align="left"> </a>
