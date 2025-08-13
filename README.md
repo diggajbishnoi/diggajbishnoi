@@ -17,7 +17,7 @@
 * 🛠️ Available for **freelance** or collaboration opportunities
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
 * 🗂️ Explore my projects on [GitHub](https://github.com/diggajbishnoi)
-* 📬 Reach out on [LinkedIn]([https://www.linkedin.com/in/diggajbishnoi/](https://www.linkedin.com/in/diggaj-bishnoi-b84b6925a/))
+* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/diggajbishnoi/)
 
 
 <br>
